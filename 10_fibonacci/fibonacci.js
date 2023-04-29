@@ -1,4 +1,7 @@
-const fibonacci = function() {
+const fibonacci = function(arr) {
+    let add =num.reduce(function(acc,current){
+        return acc+current;
+    })
 
 };
 
